@@ -26,8 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,scikit-learn,c,cpp,java,js,react,nodejs,express,git,linux,arduino,tensorflow,keras,pytorch,openvino&theme=dark" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -35,6 +33,7 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ashraf273&theme=radical" />
 </p>
+
 
 ---
 
