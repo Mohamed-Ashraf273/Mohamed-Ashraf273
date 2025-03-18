@@ -1,14 +1,55 @@
-**Computer Engineering Student | Open Source Contributor | AI Enthusiast**  <br>Currently learning **LLMs, Model Optimization, and AI Acceleration**. <br>Let's Connect:  <br>- [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-65ab91243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)<br>- Email: [ma2736666@gmail.com]  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B;I'm+Mohamed!;AI+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%90;Lifelong+Learner+%F0%9F%8C%8E;Let's+Build+Something+Epic+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohamed-Ashraf273&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ashraf273&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohamed-Ashraf273&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 **Computer Engineering Student @ Cairo University**
+- 🤖 Passionate about **AI**, **Signal Processing**, and **Embedded Systems**
+- 🔥 Currently contributing to **Keras 3 + OpenVINO Backend**
+- 💡 Believe in clean code, open source, and building things that matter!
+
+---
+
+### 🧠 Skills & Tools
+
+| **AI & ML** | **Languages** | **Frameworks** | **Dev Tools** |
+|------------|--------------|---------------|---------------|
+| TensorFlow, PyTorch, OpenVINO, Fine-tuning | Python, C, C++, Java, JavaScript | React, React Native, Node.js, Express | Arduino, Git, Linux, Bash |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,redux,nodejs,express,git,linux,arduino,tensorflow,pytorch&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
