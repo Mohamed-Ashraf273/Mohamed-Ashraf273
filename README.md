@@ -58,8 +58,14 @@
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/mohamed-ashraf-65ab91243)
-- [Gmail](ma2736666@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-ashraf-65ab91243">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ma2736666@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
 
 ---
 
