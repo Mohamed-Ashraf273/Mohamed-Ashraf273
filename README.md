@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hey+there+👋;I'm+Mohamed+Ashraf!;AI+Engineer+⚙️+|+Tech+Enthusiast;Let's+Create+Magic+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hey+there+👋;I'm+Mohamed+Ashraf!;AI+Engineer+⚙️+|+Tech+Enthusiast;Let's+Create+Magic+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,17 +15,17 @@
 ## 🚀 About Me
 
 🎓 **Computer Engineering Student @ Cairo University**  
-🤖 Passionate about **AI**, ML, and building intelligent systems  
-💡 Lover of creative problem solving & fine-tuning models  
-🛠️ Always exploring new tech stacks and frameworks  
-🎯 Focused on **performance optimization** and **AI model deployment**
+🤖 Passionate about **AI**, ML, and intelligent systems  
+💡 Creative problem solver & AI model tuner  
+🛠️ Always exploring new tech stacks  
+🎯 Performance optimization & deployment focused  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikit-learn,seaborn,keras,tensorflow,pytorch,openvino,c,cpp,java,javascript,react,nodejs,express,git,linux,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,seaborn,keras,tensorflow,pytorch,openvino,c,cpp,java,javascript,react,nodejs,express,git,linux,arduino&theme=dark" />
 </p>
 
 ---
@@ -33,11 +33,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-mohamed.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ashraf273&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Mohamed-Ashraf273&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ashraf273&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-mohamed.vercel.app/api/top-langs/?username=Mohamed-Ashraf273&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -54,3 +54,5 @@
 </p>
 
 ---
+
+> *“Stay curious, keep building, and push the boundaries of what's possible!”* 🚀✨
