@@ -15,14 +15,15 @@
 ### 🚀 About Me
 
 - 🎓 **Computer Engineering Student @ Cairo University**
-- 🤖 Passionate about **AI**
+- 🤖 Passionate about **AI** & cutting-edge tech
+- 🎯 Skilled in fine-tuning AI models & optimizing performance
 
 ---
 
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,cikit-learn,c,cpp,java,js,react,nodejs,express,git,linux,arduino,tensorflow,keras,pytorch,openvino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,scikit-learn,c,cpp,java,js,react,nodejs,express,git,linux,arduino,tensorflow,keras,pytorch,openvino&theme=dark" />
 </p>
 
 ---
