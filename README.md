@@ -18,14 +18,14 @@
 🤖 Passionate about **AI**, ML, and intelligent systems  
 💡 Creative problem solver & AI model tuner  
 🛠️ Always exploring new tech stacks  
-🎯 Performance optimization & deployment focused  
+🎯 Focused on performance optimization & deployment  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,seaborn,keras,tensorflow,pytorch,openvino,c,cpp,java,javascript,react,nodejs,express,git,linux,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,seaborn,keras,tensorflow,pytorch,openvino,c,cpp,java,javascript,react,nodejs,express,git,linux,arduino&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
@@ -33,11 +33,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-mohamed.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://gh-stats-gen.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Mohamed-Ashraf273&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats-mohamed.vercel.app/api/top-langs/?username=Mohamed-Ashraf273&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=Mohamed-Ashraf273&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
