@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 **Computer Engineering Student @ Cairo University**
-- 🤖 Passionate about **AI** & cutting-edge tech
+- 🤖 Passionate about **AI** & cutting-edge technology
 - 🎯 Skilled in fine-tuning AI models & optimizing performance
 
 ---
@@ -23,17 +23,18 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,scikit-learn,c,cpp,java,js,react,nodejs,express,git,linux,arduino,tensorflow,keras,pytorch,openvino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,seaborn,scikit-learn,c,cpp,java,javascript,react,nodejs,express,git,linux,arduino,tensorflow,keras,pytorch,openvino&theme=dark" />
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ashraf273&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ashraf273&theme=radical" alt="GitHub Streak Stats" />
 </p>
-
 
 ---
 
@@ -41,9 +42,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ashraf-65ab91243">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ma2736666@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
