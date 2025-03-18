@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A Passionate Developer, AI Enthusiast & Problem Solver 🚀</h3>
+<h3 align="center">A Passionate Developer & AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=Turning+Coffee+%E2%98%95+into+Code...;Loving+AI+and+ML+%F0%9F%A4%96;Let's+Build+Something+Awesome!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=50&lines=A+Passionate+Developer+%E2%98%95+into+Code...;AI+AI+Enthusiast+%F0%9F%A4%96;Let's+Build+Something+Awesome!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
