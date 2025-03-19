@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-Ashraf273&theme=radical" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Mohamed-Ashraf273&theme=radical" />
 </p>
 
 ---
