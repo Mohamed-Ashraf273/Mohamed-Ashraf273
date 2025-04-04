@@ -52,11 +52,10 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Mohamed-Ashraf273&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ashraf273&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Ashraf273&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
